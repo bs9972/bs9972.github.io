@@ -40,6 +40,14 @@ mac : `[cmd] + shift + p`
 `git status`  
 `git log`
 
+## 오류해결 방법
+
+```
+warning: LF will be replaced by CRLF in _config.yml.
+The file will have its original line endings in your working directory
+```
+
+`git config --global core.autocrlf true`
 
 
 
