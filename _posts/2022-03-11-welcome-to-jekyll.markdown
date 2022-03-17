@@ -30,14 +30,14 @@ int main(){
 
 ## 저장소 초기화  
 `git init[directory]`      
-`git clone[repositoty] [directory]` 
+`git clone[repositoty] ` 
 
 ## 버전 관리 (업데이트)
 `git add [file...]`  필요파일만   
 > git hub . 명령어는 모든 파일 업데이트  
 
-`git commit -m [message]`  스테이징 파일  -> 버전 업데이트 업데이트 메모  
-`git push ` : 로컬 저장소 -> 온라인 저장소 업로드
+`git commit -m [message]`  업데이트 메모  
+`git push `
  
 ## 상태 
 `git status`  
