@@ -18,7 +18,7 @@ mac : `[cmd] + shift + p`
 
 # 구조
 
-	**구조 스테이징 - 깃허브 저장소**
+**구조 스테이징 - 깃허브 저장소**
 
 # Git 명령어
 
@@ -26,12 +26,8 @@ mac : `[cmd] + shift + p`
 
 ## 저장소 초기화  
 <<<<<<< HEAD
-`git init[directory]`   스테이징 초기화
-`git clone[repositoty] ` 깃허브 저장소 into a new directory(내컴) 복제
-=======
-`git init[directory]`      
-`git clone[repositoty] [directory]` 
->>>>>>> parent of 27301f8 (posting)
+`git init[directory]`   스테이징 초기화  
+`git clone[repositoty] ` 깃허브 저장소 into a new directory(내컴) 복제  
 
 ## 버전 관리 (업데이트)
 `git add [file...]`  스테이징에 업로드   
