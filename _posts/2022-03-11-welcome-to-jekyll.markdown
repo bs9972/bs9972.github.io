@@ -25,7 +25,6 @@ mac : `[cmd] + shift + p`
 `git ` git 명령어 목록
 
 ## 저장소 초기화  
-<<<<<<< HEAD
 `git init[directory]`   스테이징 초기화  
 `git clone[repositoty] ` 깃허브 저장소 into a new directory(내컴) 복제  
 
@@ -40,7 +39,6 @@ mac : `[cmd] + shift + p`
 =======
 `git commit -m [message]`  스테이징 파일  -> 버전 업데이트 업데이트 메모  
 `git push ` : 로컬 저장소 -> 온라인 저장소 업로드
->>>>>>> parent of 27301f8 (posting)
  
 ## 상태 
 `git status`  
